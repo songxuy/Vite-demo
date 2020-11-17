@@ -1,3 +1,3 @@
 # Vite-demo
 
-* a demo of useing Vite
+* a demo of using Vite
